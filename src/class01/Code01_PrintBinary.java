@@ -30,6 +30,7 @@ public class Code01_PrintBinary {
 //		int a = Integer.MIN_VALUE;
 //		print(a);
 //		+-: -2^31 - 1 ~ 2^31 - 1
+//		no +-: 0 ~ 2^32 -1
 		
 
 //		int b = 123823138;
