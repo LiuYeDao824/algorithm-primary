@@ -10,7 +10,7 @@ public class Code01_PrintBinary {
 	}
 
 	public static void main(String[] args) {
-		// 32位
+		// 32位 2^31~2^0
 //		int num = 4;
 //
 //		print(num);
@@ -29,6 +29,8 @@ public class Code01_PrintBinary {
 //		print(-1);
 //		int a = Integer.MIN_VALUE;
 //		print(a);
+//		+-: -2^31 - 1 ~ 2^31 - 1
+		
 
 //		int b = 123823138;
 //		int c = ~b;
